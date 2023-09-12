@@ -268,3 +268,9 @@ Calcular el HMAC_SHA256 del contenido del mensaje utilizando la clave secreta co
 Agregar el valor del HMAC_SHA256 calculado como una firma en la solicitud SOAP.
 En el servidor, calcular el HMAC_SHA256 del contenido del mensaje recibido utilizando la misma clave secreta compartida y compararlo con la firma recibida para verificar la autenticidad e integridad del mensaje.
 Si estás trabajando con claves RSA de 2048 bits, se utilizan para otros propósitos, como cifrado asimétrico o firma digital utilizando algoritmos como RSA_SHA256 (RSA con SHA-256), no HMAC_SHA256. Es importante entender la diferencia entre estos algoritmos y usar el adecuado para el propósito específico que deseas lograr en tu comunicación SOAP.
+
+
+openssl pkcs12 -export -out hmac-key.pfx -inkey hmac-key.bin -in hmac-key.bin -name "HMAC Key"
+# Puedes cambiar 'mypfxstore.pfx' al nombre que desees
+keytool -importkeystore -srckeystore hmac-key.pfx -srcstoretype PKCS12 -destkeystore mypfxstore.pfx -deststoretype PKCS12
+
