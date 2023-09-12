@@ -278,3 +278,11 @@ keytool -importkeystore -srckeystore hmac-key.pfx -srcstoretype PKCS12 -destkeys
 unable to load private key
 140694361323440:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: ANY PRIVATE KEY
 
+
+# Genera la clave HMAC utilizando OpenSSL
+openssl rand -out hmac-key.bin 32  # 32 bytes para HMAC-SHA256
+
+openssl pkcs12 -export -out hmac-key.pfx -inkey hmac-key.bin -in hmac-key.bin -name "HMAC Key" -passout pass:tu_nueva_contraseña -passin pass:tu_contraseña_actual
+
+keytool -importkeystore -srckeystore hmac-key.pfx -srcstoretype PKCS12 -destkeystore mykeystore.jks -deststoretype JKS -srcstorepass tu_nueva_contraseña -deststorepass tu_nueva_contraseña
+
