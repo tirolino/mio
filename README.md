@@ -375,3 +375,4 @@ necesito que me listes los objetivos y OKRS adaptados a un empleado en concreto,
 2. **KR2:** Desarrollar un programa de responsabilidad social corporativa centrado en la salud y el medio ambiente, con al menos dos iniciativas implementadas en el próximo año.
 3. **KR3:** Aumentar la transparencia en las prácticas de sostenibilidad, proporcionando informes regulares sobre el impacto ambiental de las operaciones del departamento.
 
+unidad de negocio me lo puedes cambiar y ponerme como unidad de negocio la de "Ventas farmaceuticas"
