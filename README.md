@@ -309,3 +309,5 @@ y para cada objetivo 3 okrs
 2. **KR2:** Integrar al menos dos criterios de sostenibilidad en el diseño de nuevos productos farmacológicos para garantizar la responsabilidad ambiental.
 3. **KR3:** Fomentar la diversidad e inclusión en la investigación y desarrollo, aumentando la representación de grupos subrepresentados en un 20% en los equipos de proyecto clave.
 
+necesito que me listes los objetivos y OKRS adaptados a un empleado en concreto, a un equipo y a una unidad de negocio.
+
