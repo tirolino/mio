@@ -286,3 +286,8 @@ openssl pkcs12 -export -out hmac-key.pfx -inkey hmac-key.bin -in hmac-key.bin -n
 
 keytool -importkeystore -srckeystore hmac-key.pfx -srcstoretype PKCS12 -destkeystore mykeystore.jks -deststoretype JKS -srcstorepass tu_nueva_contraseña -deststorepass tu_nueva_contraseña
 
+
+
+quiero saber 3 objetivos de una empresa española cuyo objetivo  es mejorar el bienestar de los pacientes a través de productos y tratamientos farmacológicos efectivos que persiguen aumentar su esperanza y calidad de vida. Se busca proveer a todas las personas de las mejores soluciones farmacológicas hospitalarias avanzadas y, para conseguirlo, se colabora con el sector hospitalario y con el sistema de salud pública para hacer los tratamientos accesibles y viables con los recursos de los que se dispone. La forma en la que la compañía quiere afrontar estos retos de cara al futuro tiene un denominador común: desarrollar fármacos cada vez más eficaces trabajando con rigor, fomentando la diversidad y la inclusión, la sostenibilidad y el compromiso con el medio ambiente
+
+y para cada objetivo 3 okrs
