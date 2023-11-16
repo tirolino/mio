@@ -376,3 +376,23 @@ necesito que me listes los objetivos y OKRS adaptados a un empleado en concreto,
 3. **KR3:** Aumentar la transparencia en las prácticas de sostenibilidad, proporcionando informes regulares sobre el impacto ambiental de las operaciones del departamento.
 
 unidad de negocio me lo puedes cambiar y ponerme como unidad de negocio la de "Ventas farmaceuticas"
+
+**Unidad de Negocio: Departamento de Ventas Farmacéuticas**
+
+**Objetivo 1: Impulsar las Ventas de Productos Farmacológicos en el Mercado**
+
+1. **KR1:** Aumentar las ventas trimestrales en un 15% mediante la identificación y aprovechamiento de oportunidades de mercado.
+2. **KR2:** Desarrollar y ejecutar al menos dos estrategias de marketing efectivas para promover productos clave y aumentar la demanda.
+3. **KR3:** Establecer relaciones comerciales sólidas con al menos tres nuevos clientes estratégicos en el próximo año.
+
+**Objetivo 2: Mejorar la Eficiencia en la Gestión de Clientes y Pedidos**
+
+1. **KR1:** Implementar un sistema de gestión de relaciones con el cliente (CRM) mejorado para optimizar el seguimiento y la comunicación con clientes.
+2. **KR2:** Reducir los tiempos de procesamiento de pedidos en un 20% a través de la implementación de procesos más eficientes.
+3. **KR3:** Incrementar la satisfacción del cliente en un 10% mediante una atención personalizada y rápida resolución de problemas.
+
+**Objetivo 3: Expandir la Presencia en Nuevos Mercados y Segmentos**
+
+1. **KR1:** Identificar y analizar al menos dos nuevos mercados o segmentos de clientes potenciales para la expansión.
+2. **KR2:** Establecer al menos una asociación estratégica con distribuidores locales para mejorar la presencia en un mercado objetivo.
+3. **KR3:** Incrementar la cuota de mercado en productos específicos en al menos dos regiones geográficas clave en los próximos 12 meses.
