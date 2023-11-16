@@ -291,3 +291,21 @@ keytool -importkeystore -srckeystore hmac-key.pfx -srcstoretype PKCS12 -destkeys
 quiero saber 3 objetivos de una empresa española cuyo objetivo  es mejorar el bienestar de los pacientes a través de productos y tratamientos farmacológicos efectivos que persiguen aumentar su esperanza y calidad de vida. Se busca proveer a todas las personas de las mejores soluciones farmacológicas hospitalarias avanzadas y, para conseguirlo, se colabora con el sector hospitalario y con el sistema de salud pública para hacer los tratamientos accesibles y viables con los recursos de los que se dispone. La forma en la que la compañía quiere afrontar estos retos de cara al futuro tiene un denominador común: desarrollar fármacos cada vez más eficaces trabajando con rigor, fomentando la diversidad y la inclusión, la sostenibilidad y el compromiso con el medio ambiente
 
 y para cada objetivo 3 okrs
+**Objetivo 1: Desarrollar Fármacos Innovadores para Mejorar la Eficacia Terapéutica**
+
+1. **KR1:** Investigar y desarrollar al menos tres nuevos compuestos farmacológicos con potencial terapéutico destacado en los próximos 12 meses.
+2. **KR2:** Aumentar la tasa de éxito en ensayos clínicos en un 20% a través de mejoras en el diseño experimental y la gestión de datos.
+3. **KR3:** Establecer colaboraciones estratégicas con al menos dos centros de investigación líderes en el ámbito de la salud para potenciar la innovación y el intercambio de conocimientos.
+
+**Objetivo 2: Mejorar la Accesibilidad de los Tratamientos Farmacológicos**
+
+1. **KR1:** Implementar un programa piloto en tres hospitales para optimizar la logística de distribución y reducir los tiempos de entrega de los productos farmacológicos.
+2. **KR2:** Incrementar la disponibilidad de tratamientos asequibles en un 15% a través de acuerdos estratégicos con el sistema de salud pública.
+3. **KR3:** Desarrollar al menos dos iniciativas de educación médica para profesionales de la salud con el objetivo de promover el uso efectivo de los tratamientos en pacientes.
+
+**Objetivo 3: Impulsar la Sostenibilidad y el Compromiso Ambiental**
+
+1. **KR1:** Reducir la huella de carbono en las operaciones de la empresa en un 10% mediante la implementación de prácticas ecoeficientes.
+2. **KR2:** Integrar al menos dos criterios de sostenibilidad en el diseño de nuevos productos farmacológicos para garantizar la responsabilidad ambiental.
+3. **KR3:** Fomentar la diversidad e inclusión en la investigación y desarrollo, aumentando la representación de grupos subrepresentados en un 20% en los equipos de proyecto clave.
+
