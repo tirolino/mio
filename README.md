@@ -311,3 +311,67 @@ y para cada objetivo 3 okrs
 
 necesito que me listes los objetivos y OKRS adaptados a un empleado en concreto, a un equipo y a una unidad de negocio.
 
+**Empleado: Investigador Farmacéutico**
+
+**Objetivo 1: Contribuir al Desarrollo de Nuevos Fármacos Innovadores**
+
+1. **KR1:** Proponer al menos tres enfoques experimentales novedosos en los próximos seis meses para mejorar la eficacia terapéutica.
+2. **KR2:** Participar activamente en al menos dos proyectos de investigación colaborativa con centros externos para potenciar la innovación.
+3. **KR3:** Aumentar la tasa de éxito en ensayos clínicos en un 15% mediante la implementación de mejores prácticas en el diseño experimental.
+
+**Objetivo 2: Optimizar la Eficiencia en el Desarrollo de Compuestos Farmacológicos**
+
+1. **KR1:** Mejorar la eficiencia del proceso de investigación en un 10% mediante la identificación y aplicación de nuevas tecnologías y métodos.
+2. **KR2:** Colaborar con el equipo de logística para reducir los tiempos de entrega de muestras en un 20% durante los ensayos clínicos.
+3. **KR3:** Participar en al menos dos programas de formación para mantenerse actualizado sobre las últimas tendencias y avances en investigación farmacológica.
+
+**Objetivo 3: Promover la Cultura de Diversidad e Inclusión en el Equipo de Investigación**
+
+1. **KR1:** Participar en al menos una iniciativa de diversidad e inclusión dentro del departamento en el próximo trimestre.
+2. **KR2:** Colaborar con Recursos Humanos para implementar medidas que fomenten la igualdad de oportunidades en el equipo.
+3. **KR3:** Actuar como mentor de un nuevo miembro del equipo, promoviendo un ambiente de trabajo inclusivo y colaborativo.
+
+---
+
+**Equipo: Equipo de Distribución y Logística**
+
+**Objetivo 1: Optimizar la Cadena de Suministro para Reducir los Tiempos de Entrega**
+
+1. **KR1:** Implementar un sistema de gestión de inventario más eficiente, reduciendo los tiempos de preparación de pedidos en un 15%.
+2. **KR2:** Colaborar con el equipo de investigación para anticipar la demanda y evitar posibles interrupciones en la cadena de suministro.
+3. **KR3:** Mejorar la precisión del seguimiento de envíos en un 20% para proporcionar información en tiempo real a los clientes.
+
+**Objetivo 2: Incrementar la Sostenibilidad en las Operaciones Logísticas**
+
+1. **KR1:** Introducir prácticas de embalaje sostenible que reduzcan el desperdicio de materiales en un 10%.
+2. **KR2:** Colaborar con proveedores de transporte con certificación ambiental para reducir la huella de carbono en los envíos.
+3. **KR3:** Desarrollar un programa de concienciación sobre sostenibilidad entre los miembros del equipo.
+
+**Objetivo 3: Mejorar la Colaboración Interdepartamental para una Distribución Eficiente**
+
+1. **KR1:** Establecer reuniones regulares con el equipo de investigación para comprender mejor las necesidades de distribución anticipadas.
+2. **KR2:** Implementar un sistema de comunicación más efectivo entre el equipo de logística y otros departamentos para resolver problemas de manera más rápida.
+3. **KR3:** Reducir en un 15% los errores en la preparación de pedidos a través de un mayor intercambio de información con el equipo de calidad.
+
+---
+
+**Unidad de Negocio: Departamento de Relaciones con el Sistema de Salud Pública**
+
+**Objetivo 1: Fortalecer la Colaboración con el Sistema de Salud Pública para Garantizar el Acceso a Tratamientos Efectivos**
+
+1. **KR1:** Establecer acuerdos estratégicos con al menos tres hospitales clave para asegurar la disponibilidad de productos farmacológicos.
+2. **KR2:** Implementar un programa de formación para profesionales de la salud en colaboración con el equipo de investigación para promover el uso efectivo de los tratamientos.
+3. **KR3:** Medir y mejorar la satisfacción del cliente (hospitales y profesionales de la salud) en un 15% en los próximos seis meses.
+
+**Objetivo 2: Alinear Estrategias de Desarrollo con las Necesidades del Sistema de Salud Pública**
+
+1. **KR1:** Colaborar con el equipo de investigación para desarrollar productos farmacológicos que aborden las necesidades específicas del sistema de salud pública.
+2. **KR2:** Participar en al menos dos eventos del sector de la salud para comprender las tendencias emergentes y adaptar las estrategias de desarrollo en consecuencia.
+3. **KR3:** Establecer una plataforma en línea para facilitar la comunicación y el intercambio de información entre la empresa y el sistema de salud pública.
+
+**Objetivo 3: Promover la Sostenibilidad y el Compromiso Ambiental en la Unidad de Negocio**
+
+1. **KR1:** Implementar prácticas sostenibles en la gestión diaria de la unidad, reduciendo el consumo de recursos en un 10%.
+2. **KR2:** Desarrollar un programa de responsabilidad social corporativa centrado en la salud y el medio ambiente, con al menos dos iniciativas implementadas en el próximo año.
+3. **KR3:** Aumentar la transparencia en las prácticas de sostenibilidad, proporcionando informes regulares sobre el impacto ambiental de las operaciones del departamento.
+
