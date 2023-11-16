@@ -387,6 +387,52 @@ unidad de negocio me lo puedes cambiar y ponerme como unidad de negocio la de "V
 
 **Objetivo 2: Mejorar la Eficiencia en la Gestión de Clientes y Pedidos**
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body, html {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+    }
+
+    .container {
+      display: flex;
+      height: 100vh;
+    }
+
+    .frame {
+      flex: 1;
+      border: 1px solid #ccc;
+    }
+
+    iframe {
+      width: 100%;
+      height: 100%;
+      border: none;
+    }
+  </style>
+  <title>Dos Frames al 50%</title>
+</head>
+<body>
+  <div class="container">
+    <div class="frame">
+      <!-- Contenido del primer frame -->
+      <iframe src="https://www.ejemplo1.com"></iframe>
+    </div>
+    <div class="frame">
+      <!-- Contenido del segundo frame -->
+      <iframe src="https://www.ejemplo2.com"></iframe>
+    </div>
+  </div>
+</body>
+</html>
+
+
+
 1. **KR1:** Implementar un sistema de gestión de relaciones con el cliente (CRM) mejorado para optimizar el seguimiento y la comunicación con clientes.
 2. **KR2:** Reducir los tiempos de procesamiento de pedidos en un 20% a través de la implementación de procesos más eficientes.
 3. **KR3:** Incrementar la satisfacción del cliente en un 10% mediante una atención personalizada y rápida resolución de problemas.
