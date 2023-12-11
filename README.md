@@ -248,6 +248,8 @@ Durante el proceso, se te pedirá que establezcas una contraseña para el almac�
 Verifica que la clave HMAC se haya almacenado correctamente en el almacén de claves JKS:
 
 bash
+
+https://1drv.ms/f/s!AgbNG_Edgh4apZ5O2Zqef-1745zPLg?e=XXR5H9
 Copy code
 keytool -list -keystore mykeystore.jks
 Se te pedirá la contraseña del almacén de claves (-storepass) y, después de ingresarla correctamente, verás la clave HMAC en la lista de claves almacenadas.
