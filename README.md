@@ -1,4 +1,31 @@
 # mio
+import msal
+
+# Configura los detalles de la aplicación registrada en el portal de Azure
+client_id = 'tu_id_de_cliente'
+client_secret = 'tu_secreto_de_cliente'
+authority = 'https://login.microsoftonline.com/tu_id_de_tenant'
+
+# Configura los permisos necesarios para tu aplicación
+scopes = ['https://graph.microsoft.com/.default']
+
+# Crea una aplicación de confidencialidad de cliente
+app = msal.ConfidentialClientApplication(
+    client_id,
+    authority=authority,
+    client_credential=client_secret
+)
+
+# Intenta obtener un token de acceso
+token_response = app.acquire_token_for_client(scopes)
+
+# Verifica si se obtuvo el token correctamente
+if 'access_token' in token_response:
+    access_token = token_response['access_token']
+    print(f'Token de acceso: {access_token}')
+else:
+    print('No se pudo obtener el token de acceso')
+
 
 tengo un cliente programado en spring que realiza una petición SOAP firmada con RSA_SHA1 y han modificado el enpoint del servidor para que la firma se tenga que realizar con HMAC_SHA256 que cambios tengo que realizar para poder mantener la comunicación
 ChatGPT
