@@ -399,7 +399,9 @@ unidad de negocio me lo puedes cambiar y ponerme como unidad de negocio la de "V
 
 1. **KR1:** Identificar y analizar al menos dos nuevos mercados o segmentos de clientes potenciales para la expansión.
 2. **KR2:** Establecer al menos una asociación estratégica con distribuidores locales para mejorar la presencia en un mercado objetivo.
-3. **KR3:** Incrementar la cuota de mercado en productos específicos en al menos dos regiones geográficas clave en los próximos 12 meses.Private Sub Application_NewMailEx(ByVal EntryIDCollection As String)
+3. **KR3:** Incrementar la cuota de mercado en productos específicos en al menos dos regiones geográficas clave en los próximos 12 meses
+
+4. Private Sub Application_NewMailEx(ByVal EntryIDCollection As String)
     On Error Resume Next
     
     Dim objNS As Outlook.NameSpace
@@ -429,3 +431,4 @@ unidad de negocio me lo puedes cambiar y ponerme como unidad de negocio la de "V
     Set objMail = Nothing
     Set objNS = Nothing
 End Sub
+
