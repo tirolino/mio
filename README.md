@@ -399,4 +399,33 @@ unidad de negocio me lo puedes cambiar y ponerme como unidad de negocio la de "V
 
 1. **KR1:** Identificar y analizar al menos dos nuevos mercados o segmentos de clientes potenciales para la expansión.
 2. **KR2:** Establecer al menos una asociación estratégica con distribuidores locales para mejorar la presencia en un mercado objetivo.
-3. **KR3:** Incrementar la cuota de mercado en productos específicos en al menos dos regiones geográficas clave en los próximos 12 meses.
+3. **KR3:** Incrementar la cuota de mercado en productos específicos en al menos dos regiones geográficas clave en los próximos 12 meses.Private Sub Application_NewMailEx(ByVal EntryIDCollection As String)
+    On Error Resume Next
+    
+    Dim objNS As Outlook.NameSpace
+    Dim objMail As Outlook.MailItem
+    Dim objFolder As Outlook.Folder
+    Dim strScriptPath As String
+    
+    ' Ruta al script Python
+    strScriptPath = "C:\Ruta\Al\Script.py"
+    
+    ' Obtener el objeto Namespace
+    Set objNS = Application.GetNamespace("MAPI")
+    
+    ' Recorrer las entradas de correo electrónico
+    For Each EntryID In Split(EntryIDCollection, ",")
+        ' Obtener el objeto de correo
+        Set objMail = objNS.GetItemFromID(EntryID)
+        
+        ' Verificar si el correo cumple con ciertas condiciones (puedes ajustar esto)
+        If objMail.Subject Like "*PalabraClave*" Then
+            ' Ejecutar el script Python
+            Call Shell("python " & strScriptPath, vbNormalFocus)
+        End If
+    Next
+    
+    ' Liberar objetos
+    Set objMail = Nothing
+    Set objNS = Nothing
+End Sub
